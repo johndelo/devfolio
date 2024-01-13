@@ -1,19 +1,19 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://johndelo.the-human-element.com`,
     // Your Name
-    name: 'Ryan Fitzgerald',
+    name: 'John DeLorenzo',
     // Main Site Title
-    title: `Ryan Fitzgerald | Full-Stack Developer`,
+    title: `John DeLorenzo | Architecture, Design & Implementation Consultant`,
     // Description that goes under your name in main bio
-    description: `Lorem ipsum dolor sit amet consectetur adipisicing elit, ipsum.`,
+    description: `Driven professional with 10 years of experience and a proven knowledge of advanced/emerging technologies like Generative/Conversational AI. Agile & Software Engineering enthusiast, using the human element to build high performing teams that build products with sustained impact. Looking to offer my services to give your organization a unique and lasting ability to instill engineering culture at scale while designing and implementing software systems that meet your most critical goals.`,
     // Optional: Twitter account handle
-    author: `@rfitzio`,
+    author: `@johndelo`,
     // Optional: Github account URL
-    github: `https://github.com/ryanfitzgerald`,
+    github: `https://github.com/johndelo`,
     // Optional: LinkedIn account URL
-    linkedin: `https://www.linkedin.com/in/ryanafitzgerald/`,
+    linkedin: `https://www.linkedin.com/in/john-delorenzo-4196175b/`,
     // Content of the About Me section
     about: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus perferendis porro cumque ea error ab voluptatem. Temporibus adipisci exercitationem similique itaque quibusdam laudantium, qui molestiae quas, aut amet animi id.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
